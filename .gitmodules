@@ -1,0 +1,3 @@
+[submodule "chattertechno"]
+	path = chattertechno
+	url = https://github.com/chattertechno/chatter-solidity.git
